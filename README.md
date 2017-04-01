@@ -1,0 +1,2 @@
+# Survivor_Winner_Predictor
+These R scripts that gather data about the US version of the TV show Survivor for use in building various prediction models for the winner of a season.  The get_survivor_data.R script scrapes Wikipedia and cbs.com to build biographical data about the contestants to facilitate exploratory data analysis for potential models to predict the probability of a contestant winning.
