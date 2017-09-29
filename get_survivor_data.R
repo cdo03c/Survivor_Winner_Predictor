@@ -25,24 +25,27 @@ if(length(premierDate) < nrow(allseasons)){
 }
 allseasons = cbind(allseasons, premierYear = ifelse(substring(premierDate, nchar(premierDate))==']', substring(premierDate, nchar(premierDate)-7, nchar(premierDate)-4), substring(premierDate,nchar(premierDate)-3, nchar(premierDate))))
 
-# #ADD GEOSPATIAL and Population DATA FROM CITY AND STATE INFORMATION
-# getGeo <- function(city, state){
-#   for(i in 1:length(city)){
-#     loc = read_html(paste("https://en.wikipedia.org/wiki/", city[i],"_", state[i]))
-#     #   loc %>%
-#     #     +     html_nodes("table") %>%
-#     #     +     .[[1]] %>%
-#     #     +     html_table(fill=T)
-#     #ADD IN THE PARTS OF TABLE THAT WE WANT TO CAPTURE FOR SPATIAL INFORMATION
-#   }
-#   
-# }
-#   city = read_html("https://en.wikipedia.org/wiki/Walnut_Creek,_California")
-#   city %>%
-#     +     html_nodes("table") %>%
-#     +     .[[1]] %>%
-#     +     html_table(fill=T)
-#   
+#Creates the function getLocation which takes the names of a city and state as
+#strings and returns a data frame containing the location table from the 
+#wikipedia page for that city.
+getLocation <- function(city, state){
+    city = gsub(" ", "_", city)
+    state = gsub(" ", "_", state)
+    loc = read_html(paste("https://en.wikipedia.org/wiki/", city,",_", state, sep = ''))
+    print(loc)
+    location = loc %>%
+      html_nodes("table") %>%
+      .[[1]] %>%
+      html_table(fill=T)
+}
+
+#Creates a function called getGEO which takes in a string from a Wikipedia
+#location table and extracts the degree decimal latitude and and longitude
+#and returns it as a numeric vector.
+getGEO <- function(coordStr){
+  dd = substring(coordStr,65,83)
+  return(as.numeric(unlist(strsplit(dd,';'))))
+}
 
 #Creates a function to parse all the contestant information from each season's 
 #wikipedia page
@@ -84,7 +87,22 @@ parseSeason <- function(seasons, season.contest, i){
   state <- gsub("(.+), ","", season.contest[,1])
   #print(state)
   
-  #geo <- getGeo(city, state)
+  geo = data.frame()
+  totalArea = vector()
+  totalPop = vector()
+  popDens = vector()
+  
+  for(i in 1:length(city)){
+    location <- getLocation(city[i],state[i])
+    geo <- rbind(geo,getGEO(location[grepl('Coord', location[,2]),1]))
+    stats = location[grepl('km2)', location[,2]),]
+    totalArea <- rbind(totalArea,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Total',stats[,1]),2],'sq'))[1])))
+    popDens <- rbind(popDens,strtoi(gsub(",", "", unlist(strsplit(stats[grepl('Dens',stats[,1]),2],'/'))[1])))
+    print(popDens)
+    totalPop <- rbind(totalPop,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Land',stats[,1]),2],'sq'))[1])) * popDens[i,])
+  }
+  #
+  
   #Creates an integer vector of all the contestants' place where he or she finished in their season
   place <- as.integer(substring(season.contest$Finish,1,2))
   #print(place)
@@ -95,10 +113,11 @@ parseSeason <- function(seasons, season.contest, i){
   #print(num.days)
   
   #Creates a data frame with all the extracted contestant information from each season
-  data.frame(last.name, first.name, age, birth.year, sex, city, state, place, num.days,
-                                               season.num = as.integer(i), season.name = seasons[i, 2], location = seasons[i,3], 
-                                               winner = seasons[i,5], second = seasons[i,6], 
-                                               third = seasons[i,7])
+  data.frame(last.name, first.name, age, birth.year, sex, city, state, place,
+             num.days, season.num = as.integer(i), season.name = seasons[i, 2],
+             location = seasons[i,3], winner = seasons[i,5], second = seasons[i,6], 
+             third = seasons[i,7], lat = geo[1], lon = geo[2], totalArea,
+             popDens, totalPop)
 }
 
 ###Pull data about each of the contestants from all the survivor seasons
@@ -140,6 +159,7 @@ allcontestants$name = paste(allcontestants$first.name, allcontestants$last.name)
 allcontestants = allcontestants[!duplicated(allcontestants[,c(11,16)]),]
 
 ###WORK LEFT TO DO###
-###1. Write GetGeo Function
+
 ###2. Calculate number of times played
 ###3. Scrape bios from webpage 
+###4. Vectorize Bio Text
