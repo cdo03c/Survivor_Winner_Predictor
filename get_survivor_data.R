@@ -94,7 +94,9 @@ parseSeason <- function(seasons, season.contest, i){
   popDens = vector()
   
   for(i in 1:length(city)){
-    tryCatch(getLocation(city[i],state[i]), error = "no location")
+    tryCatch(getLocation(city[i],state[i]), error = print("no location"))
+    error = function(e) {print(paste("non-numeric argument", x)); 
+      NaN}
     location <- getLocation(city[i],state[i])
     geo <- rbind(geo,getGEO(location[grepl('Coord', location[,2]),1]))
     stats = location[grepl('km2)', location[,2]),]
@@ -165,7 +167,7 @@ allcontestants$name = paste(allcontestants$first.name, allcontestants$last.name)
 allcontestants = allcontestants[!duplicated(allcontestants[,c(11,16)]),]
 
 ###WORK LEFT TO DO###
-
+###1. Error handle if there is no wikipedia for a location
 ###2. Calculate number of times played
 ###3. Scrape bios from webpage 
-###4. Vectorize Bio Text
+###4. TFIDF Vectorize Bio Text
