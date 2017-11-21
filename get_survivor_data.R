@@ -93,23 +93,23 @@ parseSeason <- function(seasons, season.contest, i){
   totalPop = vector()
   popDens = vector()
   
-  for(i in 1:length(city)){
-    tryCatch(getLocation(city[i],state[i]), error = print("no location"))
-    error = function(e) {print(paste("non-numeric argument", x)); 
-      NaN}
-    location <- getLocation(city[i],state[i])
-    geo <- rbind(geo,getGEO(location[grepl('Coord', location[,2]),1]))
-    stats = location[grepl('km2)', location[,2]),]
-    totalPop = rbind(totalPop,as.numeric(gsub(",", "", location[grepl('[:digits{0-9}:],[:digits{0-9}:]', location[,2]),2][1])))
-    print(totalPop[i])
-    totalArea <- rbind(totalArea,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Total',stats[,1]),2],'sq'))[1])))
-    popDens <- rbind(popDens,totalPop[i]/totalArea[i])
-    print(city[i])
-    print(state[i])
-    print(popDens)
-    #totalPop <- rbind(totalPop,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Land',stats[,1]),2],'sq'))[1])) * popDens[i,])
-  }
-  #
+  # for(i in 1:length(city)){
+  #   tryCatch(getLocation(city[i],state[i]), error = print("no location"))
+  #   error = function(e) {print(paste("non-numeric argument", x)); 
+  #     NaN}
+  #   location <- getLocation(city[i],state[i])
+  #   geo <- rbind(geo,getGEO(location[grepl('Coord', location[,2]),1]))
+  #   stats = location[grepl('km2)', location[,2]),]
+  #   totalPop = rbind(totalPop,as.numeric(gsub(",", "", location[grepl('[:digits{0-9}:],[:digits{0-9}:]', location[,2]),2][1])))
+  #   print(totalPop[i])
+  #   totalArea <- rbind(totalArea,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Total',stats[,1]),2],'sq'))[1])))
+  #   popDens <- rbind(popDens,totalPop[i]/totalArea[i])
+  #   print(city[i])
+  #   print(state[i])
+  #   print(popDens)
+  #   #totalPop <- rbind(totalPop,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Land',stats[,1]),2],'sq'))[1])) * popDens[i,])
+  # }
+  # #
   
   #Creates an integer vector of all the contestants' place where he or she finished in their season
   place <- as.integer(substring(season.contest$Finish,1,2))
@@ -124,8 +124,9 @@ parseSeason <- function(seasons, season.contest, i){
   data.frame(last.name, first.name, age, birth.year, sex, city, state, place,
              num.days, season.num = as.integer(i), season.name = seasons[i, 2],
              location = seasons[i,3], winner = seasons[i,5], second = seasons[i,6], 
-             third = seasons[i,7], lat = geo[1], lon = geo[2], totalArea,
-             popDens, totalPop)
+             third = seasons[i,7]#, 
+             #lat = geo[1], lon = geo[2], totalArea, popDens, totalPop
+             )
 }
 
 ###Pull data about each of the contestants from all the survivor seasons
@@ -165,6 +166,10 @@ for(i in 1:nrow(allseasons)){
 #Remove duplicate entries for seasons where someone was voted off twice.
 allcontestants$name = paste(allcontestants$first.name, allcontestants$last.name)
 allcontestants = allcontestants[!duplicated(allcontestants[,c(11,16)]),]
+
+#Write out allcontestants dataframe to csv
+setwd("~/Documents/Github/Survivor_Winner_Predictor")
+write.csv(allcontestants, file = "contestants.csv")
 
 ###WORK LEFT TO DO###
 ###1. Error handle if there is no wikipedia for a location

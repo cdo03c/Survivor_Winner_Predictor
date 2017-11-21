@@ -1,0 +1,852 @@
+"","last.name","first.name","age","birth.year","sex","city","state","place","num.days","season.num","season.name","location","winner","second","third","name"
+"1","Christopher","Sonja",63,1937,"female","Walnut Creek","California",16,3,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Sonja Christopher"
+"2","Andersen","B.B.",64,1936,"unknown","Mission Hills","Kansas",15,6,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","B.B. Andersen"
+"3","Stillman","Stacey",27,1973,"female","San Francisco","California",14,9,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Stacey Stillman"
+"4","Gray","Ramona",29,1971,"female","Edison","New Jersey",13,12,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Ramona Gray"
+"5","Been","Dirk",23,1977,"male","Spring Green","Wisconsin",12,15,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Dirk Been"
+"6","Klug","Joel",27,1973,"male","Sherwood","Arkansas",11,18,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Joel Klug"
+"7","Cordy","Gretchen",38,1962,"female","Clarksville","Tennessee",10,21,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Gretchen Cordy"
+"8","Buis","Greg",24,1976,"male","Gold Hill","Colorado",9,24,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Greg Buis"
+"9","Lewis","Jenna",22,1978,"female","Franklin","New Hampshire",8,27,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Jenna Lewis"
+"10","Peterson","Gervase",30,1970,"unknown","Peterson","New Jersey",7,30,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Gervase Peterson"
+"11","Haskell","Colleen",23,1977,"female","Miami Beach","Florida",6,33,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Colleen Haskell"
+"12","Kenniff","Sean",30,1970,"male","Kenniff","New York",5,36,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Sean Kenniff"
+"13","Hawk","Susan",38,1962,"female","Palmyra","Wisconsin",4,37,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Susan Hawk"
+"14","Boesch","Rudy",72,1928,"male","Virginia Beach","Virginia",3,38,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Rudy Boesch"
+"15","Wiglesworth","Kelly",22,1978,"female","Kernville","Nevada",2,40,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Kelly Wiglesworth"
+"16","Hatch","Richard",39,1961,"male","Newport","Rhode Island",1,40,1,"Survivor: Borneo","Pulau Tiga, Sabah, Malaysia","Richard Hatch","Kelly Wiglesworth","Kelly Wiglesworth","Richard Hatch"
+"17","Eaton","Debb",45,1956,"unknown","Milan","New Hampshire",16,3,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Debb Eaton"
+"18","Gleason","Kel",32,1969,"male","Fort Hood","Texas",15,6,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Kel Gleason"
+"19","Hershey","Maralyn",51,1950,"female","Wakefield","Virginia",14,9,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Maralyn Hershey"
+"20","Olson","Mitchell",23,1978,"male","Union City","New Jersey",13,12,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Mitchell Olson"
+"21","Kappenberg","Kimmi",27,1974,"unknown","Ronkonkoma","New York",12,15,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Kimmi Kappenberg"
+"22","Skupin","Michael",38,1963,"male","White Lake","Michigan",11,17,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Michael Skupin"
+"23","Varner","Jeff",34,1967,"male","Greensboro","North Carolina",10,21,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Jeff Varner"
+"24","Calaway","Alicia",32,1969,"female","New York City","New York",9,24,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Alicia Calaway"
+"25","Manthey","Jerri",30,1971,"female","Manthey","California",8,27,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Jerri Manthey"
+"26","Brown","Nick",23,1978,"male","Steilacoom","Washington",7,30,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Nick Brown"
+"27","Brkich","Amber",22,1979,"female","Beaver","Pennsylvania",6,33,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Amber Brkich"
+"28","Bingham","Rodger",53,1948,"male","Crittenden","Kentucky",5,36,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Rodger Bingham"
+"29","Filarski","Elisabeth",23,1978,"female","Boston","Massachusetts",4,39,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Elisabeth Filarski"
+"30","Famie","Keith",40,1961,"male","Famie","Michigan",3,41,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Keith Famie"
+"31","Donaldson","Colby",26,1975,"male","Dallas","Texas",2,40,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Colby Donaldson"
+"32","Wesson","Tina",40,1961,"female","Wesson","Tennessee",1,40,2,"Survivor: The Australian Outback","Herbert River at Goshen Station, Queensland, Australia","Tina Wesson","Colby Donaldson","Colby Donaldson","Tina Wesson"
+"33","Ogden","Diane",42,1959,"female","Lincoln","Nebraska",16,3,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Diane Ogden"
+"34","Camacho","Jessie",26,1975,"male","Orlando","Florida",15,6,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Jessie Camacho"
+"35","Bilancione","Carl",46,1955,"male","Winter Springs","Florida",14,9,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Carl Bilancione"
+"36","Spencer","Linda",44,1957,"female","Cambridge","Massachusetts",13,12,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Linda Spencer"
+"37","Gaither","Silas",23,1978,"male","Germantown","Tennessee",12,15,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Silas Gaither"
+"38","Richter","Lindsey",26,1975,"female","Portland","Oregon",11,18,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Lindsey Richter"
+"39","Black","Clarence",24,1977,"male","Detroit","Michigan",10,21,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Clarence Black"
+"40","Goldsmith","Kelly",22,1979,"female","Rancho Santa Fe","California",9,24,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Kelly Goldsmith"
+"41","Quinton","Brandon",25,1976,"male","Dallas","Texas",8,27,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Brandon Quinton"
+"42","Garrison","Frank",43,1958,"male","Odessa","New York",7,30,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Frank Garrison"
+"43","Powers","Kim",29,1972,"female","Conshohocken","Pennsylvania",6,33,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Kim Powers"
+"44","Cooper","Teresa",42,1959,"female","Jackson","Georgia",5,36,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Teresa Cooper"
+"45","Buchanan","Tom",45,1956,"male","Rich Valley","Virginia",4,37,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Tom Buchanan"
+"46","van den Berghe","Lex",38,1963,"male","Santa Cruz","California",3,38,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Lex van den Berghe"
+"47","Johnson","Kim",56,1945,"male","Oyster Bay","New York",2,40,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Kim Johnson"
+"48","Zohn","Ethan",27,1974,"male","Lexington","Massachusetts",1,40,3,"Survivor: Africa","Shaba National Reserve, Kenya[9]","Ethan Zohn","Kim Johnson","Kim Johnson","Ethan Zohn"
+"49","Harkey","Peter",44,1958,"male","Millis","Massachusetts",16,3,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Peter Harkey"
+"50","Jackson","Patricia",49,1953,"female","Lugoff","South Carolina",15,6,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Patricia Jackson"
+"51","Ellis","Hunter",33,1969,"male","La Jolla","California",14,9,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Hunter Ellis"
+"52","Jones","Sarah",24,1978,"female","Newport Beach","California",13,12,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Sarah Jones"
+"53","Cade","Gabriel",23,1979,"male","Celo","North Carolina",12,15,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Gabriel Cade"
+"54","Crews","Gina",28,1974,"female","Gainesville","Florida",11,18,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Gina Crews"
+"55","Mariano","Rob",25,1977,"male","Canton","Massachusetts",10,21,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Rob Mariano"
+"56","Carroll","John",36,1966,"male","Omaha","Nebraska",9,24,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","John Carroll"
+"57","Zanidakis","Zoe",35,1967,"female","Monhegan","Maine",8,27,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Zoe Zanidakis"
+"58","Leitner","Tammy",29,1973,"female","Mesa","Arizona",7,30,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Tammy Leitner"
+"59","DeCanio","Robert",38,1964,"male","Queens","New York",6,33,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Robert DeCanio"
+"60","Rector","Sean",30,1972,"male","Rector","New York",5,36,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Sean Rector"
+"61","English","Paschal",56,1946,"male","Thomaston","Georgia",4,37,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Paschal English"
+"62","Vavrick-O'Brien","Kathy",46,1956,"female","Burlington","Vermont",3,38,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Kathy Vavrick-O'Brien"
+"63","Dennis","Neleh",21,1981,"unknown","Layton","Utah",2,40,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Neleh Dennis"
+"64","Towery","Vecepia",36,1966,"unknown","Portland","Oregon",1,40,4,"Survivor: Marquesas","Nuku Hiva, Marquesas Islands, French Polynesia","Vecepia Towery","Neleh Dennis","Neleh Dennis","Vecepia Towery"
+"65","Raymond","John",40,1962,"male","Raymond","Louisiana",16,3,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","John Raymond"
+"66","Vance","Tanya",27,1975,"female","Kingsport","Tennessee",15,6,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Tanya Vance"
+"67","Hildebrand","Jed",25,1977,"male","Dallas","Texas",14,9,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Jed Hildebrand"
+"68","Johnson","Ghandia",33,1969,"unknown","Denver","Colorado",13,12,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Ghandia Johnson"
+"69","Dill","Stephanie",29,1973,"female","Fayetteville","Arkansas",12,15,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Stephanie Dill"
+"70","Zbacnik","Robb",23,1979,"male","Scottsdale","Arizona",11,18,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Robb Zbacnik"
+"71","Huang","Sh",28,1974,"unknown","New York City","New York",10,21,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Sh Huang"
+"72","Collins","Erin",26,1976,"female","Austin","Texas",9,24,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Erin Collins"
+"73","Stafford","Ken",30,1972,"male","Stafford","New York",8,27,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Ken Stafford"
+"74","Ramsey","Penny",27,1975,"female","Plano","Texas",7,30,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Penny Ramsey"
+"75","Billingsley","Jake",60,1942,"male","Billingsley","Texas",6,33,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Jake Billingsley"
+"76","Rogers","Jr",37,1965,"male","Durham","North Carolina",5,36,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Jr Rogers"
+"77","Glover","Helen",47,1955,"female","Middletown","Rhode Island",4,37,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Helen Glover"
+"78","Gentry","Jan",53,1949,"female","Tampa","Florida",3,38,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Jan Gentry"
+"79","Jordan","Clay",46,1956,"male","Monroe","Louisiana",2,40,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Clay Jordan"
+"80","Heidik","Brian",34,1968,"male","Quartz Hill","California",1,40,5,"Survivor: Thailand","Ko Tarutao, Satun Province, Thailand","Brian Heidik","Clay Jordan","Clay Jordan","Brian Heidik"
+"81","Aiken","Ryan",23,1980,"male","Ellicott City","Maryland",16,3,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Ryan Aiken"
+"82","Koth","Janet",46,1957,"female","Manchester","Missouri",15,6,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Janet Koth"
+"83","Lue","Daniel",26,1977,"male","Houston","Texas",14,9,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Daniel Lue"
+"84","Ward","JoAnna",31,1972,"female","Orangeburg","South Carolina",13,12,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","JoAnna Ward"
+"85","Hebert","Jeanne",40,1963,"female","Hebert","Massachusetts",12,15,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Jeanne Hebert"
+"86","Mitchell","Shawna",23,1980,"female","Redwood City","California",11,18,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Shawna Mitchell"
+"87","Sexton","Roger",56,1947,"male","Valencia","California",10,21,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Roger Sexton"
+"88","Johnson","Dave",23,1980,"male","Pasadena","California",9,24,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Dave Johnson"
+"89","Bennett","Deena",35,1968,"female","Riverside","California",8,27,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Deena Bennett"
+"90","Bell","Alex",32,1971,"male","Los Angeles","California",7,30,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Alex Bell"
+"91","Smith","Christy",24,1979,"female","Basalt","Colorado",6,33,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Christy Smith"
+"92","Strobel","Heidi",24,1979,"female","Buffalo","Missouri",5,36,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Heidi Strobel"
+"93","Lockley","Butch",50,1953,"male","Lockley","Illinois",4,37,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Butch Lockley"
+"94","Cesternino","Rob",24,1979,"male","Wantagh","New York",3,38,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Rob Cesternino"
+"95","von Ertfelda","Matthew",33,1970,"male","Washington","D.C.",2,40,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Matthew von Ertfelda"
+"96","Morasca","Jenna",21,1982,"female","Pittsburgh","Pennsylvania",1,40,6,"Survivor: The Amazon","Rio Negro, Amazonas, Brazil","Jenna Morasca","Matthew Von Ertfelda","Matthew Von Ertfelda","Jenna Morasca"
+"97","Delma","Nicole",24,1979,"female","Hermosa Beach","California",18,3,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Nicole Delma"
+"98","Shoulders","Ryan",23,1980,"male","Clarksville","Tennessee",17,6,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Ryan Shoulders"
+"99","Morris","Lillian",NA,NA,"unknown","Morris","LillianLillian MorrisReturned to game",16,40,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Lillian Morris"
+"100","Roberts","Burton",NA,NA,"unknown","Roberts","BurtonBurton RobertsReturned to game",15,40,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Burton Roberts"
+"101","Tesauro","Michelle",22,1981,"female","Pittstown","New Jersey",14,15,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Michelle Tesauro"
+"102","Dunn","Trish",42,1961,"female","Annapolis","Maryland",13,18,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Trish Dunn"
+"103","Cohen","Shawn",28,1975,"male","New York City","New York",12,19,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Shawn Cohen"
+"104","Taylor","Osten",27,1976,"unknown","Boston","Massachusetts",11,19,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Osten Taylor"
+"105","Savage","Andrew",39,1964,"male","Chicago","Illinois",10,21,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Andrew Savage"
+"106","Opray","Ryan",30,1973,"male","Opray","California",9,24,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Ryan Opray"
+"107","Boneham","Rupert",39,1964,"male","Indianapolis","Indiana",8,27,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Rupert Boneham"
+"108","Bradley","Tijuana",26,1977,"female","St. Louis","Missouri",7,30,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Tijuana Bradley"
+"109","Hastie","Christa",24,1979,"female","Los Angeles","California",6,33,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Christa Hastie"
+"111","Johnson","Darrah",22,1981,"female","Liberty","Mississippi",4,37,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Darrah Johnson"
+"112","Dalton","J",29,1974,"unknown","Danville","Virginia",3,38,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","J Dalton"
+"114","Diaz-Twine","Sandra",29,1974,"female","Fort Lewis","Washington",1,40,7,"Survivor: Pearl Islands","Pearl Islands, Panama","Sandra Diaz-Twine","Lillian Morris","Lillian Morris","Sandra Diaz-Twine"
+"115","","Knoxv",42,1962,"unknown","","TennesseeThe Australian Outback",18,3,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Knoxv "
+"116","","Virg",75,1929,"unknown","","VirginiaBorneo",17,6,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Virg "
+"117","","Bridge",22,1982,"unknown","","PennsylvaniaThe Amazon",16,9,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Bridge "
+"118","","Want",25,1979,"unknown","","New YorkThe Amazon",15,12,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Want "
+"119","","Newp",42,1962,"unknown","","Rhode IslandBorneo",14,15,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Newp "
+"120","","Palm",42,1962,"unknown","","WisconsinBorneo",13,17,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Palm "
+"121","","Chris",29,1975,"male","","TexasThe Australian Outback",12,19,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Chris "
+"122","","Lexin",30,1974,"unknown","","MassachusettsAfrica",11,21,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Lexin "
+"123","","L",33,1971,"unknown","","CaliforniaThe Australian Outback",10,24,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","L "
+"124","","Sa",40,1964,"unknown","","CaliforniaAfrica",9,27,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Sa "
+"125","","Burli",48,1956,"unknown","","VermontMarquesas",8,28,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Burli "
+"126","","N",35,1969,"unknown","","New YorkThe Australian Outback",7,30,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","N "
+"128","","Ri",48,1956,"unknown","","VirginiaAfrica",5,36,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Ri "
+"129","","Indian",39,1965,"unknown","","IndianaPearl Islands",4,37,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Indian "
+"130","","Fran",26,1978,"female","","New HampshireBorneo",3,38,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Fran "
+"131","","Can",27,1977,"unknown","","MassachusettsMarquesas",2,40,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Can "
+"132","","Bea",25,1979,"unknown","","PennsylvaniaThe Australian Outback",1,40,8,"Survivor: All-Stars","Pearl Islands, Panama","Amber Brkich","Rob Mariano","Rob Mariano","Bea "
+"133","Geraghty","Brook",27,1977,"female","Winthrop","Massachusetts",18,3,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Brook Geraghty"
+"134","Neely","Dolly",25,1979,"female","Mercer","Pennsylvania",17,6,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Dolly Neely"
+"135","Palyok","John",31,1973,"male","Los Angeles","California",16,7,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","John Palyok"
+"136","Galeotalanza","Mia",29,1975,"female","Toms River","New Jersey",15,7,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Mia Galeotalanza"
+"137","Finta","Brady",33,1971,"male","Huntington Beach","California",14,10,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Brady Finta"
+"138","Sampson","Tra",33,1971,"unknown","Blountville","Tennessee",13,12,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Tra Sampson"
+"139","Keiffer","Lisa",44,1960,"female","New Orleans","Louisiana",12,15,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Lisa Keiffer"
+"140","Kenney","John",22,1982,"male","Los Angeles","California",11,18,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","John Kenney"
+"141","Freeman","Rory",35,1969,"male","Des Moines","Iowa",10,21,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Rory Freeman"
+"142","Masters","L",40,1964,"unknown","Masters","South Carolina",9,24,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","L Masters"
+"143","Crittenden","Ja",34,1970,"unknown","Oakland","California",8,27,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Ja Crittenden"
+"144","Slaby","Leann",35,1969,"female","Kansasville","Wisconsin",7,30,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Leann Slaby"
+"145","Cusack","Ami",31,1973,"female","Lakewood","Colorado",6,33,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Ami Cusack"
+"146","Berry","Julie",23,1981,"female","Gorham","Maine",5,36,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Julie Berry"
+"147","Orlins","Eliza",21,1983,"female","Syracuse","New York",4,37,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Eliza Orlins"
+"148","Lee","Sc",59,1945,"unknown","Stillwater","Oklahoma",3,38,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Sc Lee"
+"149","Tanner","Twila",41,1963,"female","Marshall","Missouri",2,40,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Twila Tanner"
+"150","Daugherty","Chris",33,1971,"male","South Vienna","Ohio",1,40,9,"Survivor: Vanuatu","Efate, Shefa, Vanuatu","Chris Daugherty","Twila Tanner","Twila Tanner","Chris Daugherty"
+"151","Libby","Jonathan",23,1982,"male","Dallas","Texas",19,2,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Jonathan Libby"
+"152","Shirk","Wanda",55,1950,"female","Ulysses","Pennsylvania",19,2,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Wanda Shirk"
+"153","Jones","Jolanda",38,1967,"female","Houston","Texas",18,3,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Jolanda Jones"
+"154","Ashby","Ashlee",22,1983,"female","Easley","South Carolina",17,6,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Ashlee Ashby"
+"155","Wilson","Jeff",21,1984,"male","Ventura","California",16,8,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Jeff Wilson"
+"156","Mullen","Kimb",25,1980,"unknown","Huber Heights","Ohio",15,11,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Kimb Mullen"
+"157","Smith","Willard",56,1949,"male","Bellevue","Washington",14,12,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Willard Smith"
+"158","Jakusz","Angie",24,1981,"female","New Orleans","Louisiana",13,12,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Angie Jakusz"
+"159","Miller","James",33,1972,"male","Mobile","Alabama",12,15,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","James Miller"
+"160","Rahman","Ibrehem",27,1978,"unknown","Birmingham","Alabama",11,18,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Ibrehem Rahman"
+"161","Drinkard","Bo",27,1978,"male","Troy","Alabama",10,21,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Bo Drinkard"
+"162","Archa","Coby",32,1973,"male","Dallas","Texas",9,24,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Coby Archa"
+"163","Tornell","Janu",39,1966,"unknown","Las Vegas","Nevada",8,27,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Janu Tornell"
+"164","LaGrossa","Stephenie",24,1981,"female","Glenolden","Pennsylvania",7,30,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Stephenie LaGrossa"
+"165","Carey","Gregg",27,1978,"male","Chicago","Illinois",6,33,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Gregg Carey"
+"166","Groedel","Caryn",46,1959,"female","Solon","Ohio",5,36,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Caryn Groedel"
+"167","Lyon","Jenn",32,1973,"unknown","Encino","California",4,37,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Jenn Lyon"
+"168","Rosenberger","Ian",23,1982,"male","Key Largo","Florida",3,38,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Ian Rosenberger"
+"169","Gallagher","Katie",29,1976,"female","Merced","California",2,40,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Katie Gallagher"
+"170","Westman","Tom",40,1965,"male","Westman","New York",1,40,10,"Survivor: Palau","Koror, Palau","Tom Westman","Katie Gallagher","Katie Gallagher","Tom Westman"
+"171","Lynch","Jim",63,1942,"male","Northglenn","Colorado",18,3,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Jim Lynch"
+"172","McDevitt","Morgan",21,1984,"female","Decatur","Illinois",17,6,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Morgan McDevitt"
+"173","Varela","Brianna",21,1984,"female","Edmonds","Washington",16,8,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Brianna Varela"
+"174","Struck","Brooke",25,1980,"female","Hood River","Oregon",15,11,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Brooke Struck"
+"175","Towsley","Blake",24,1981,"male","Dallas","Texas",14,14,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Blake Towsley"
+"176","Bobonich","Margaret",43,1962,"female","Chardon","Ohio",13,15,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Margaret Bobonich"
+"177","Corridan","Brian",22,1983,"male","New York City","New York",12,15,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Brian Corridan"
+"178","O'Hara","Amy",39,1966,"female","Revere","Massachusetts",11,18,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Amy O'Hara"
+"179","Bellinger","Brandon",22,1983,"male","Manhattan","Kansas",10,21,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Brandon Bellinger"
+"180","Drinkard","Bo",28,1977,"male","Troy","AlabamaPalau",9,24,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Bo Drinkard"
+"181","Newton","Jamie",24,1981,"female","North Hollywood","California",8,27,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Jamie Newton"
+"182","Hogeboom","Gary",46,1959,"male","Grand Haven","Michigan",7,30,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Gary Hogeboom"
+"183","Sergeant","Judd",34,1971,"male","Ridgefield","New Jersey",6,33,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Judd Sergeant"
+"184","Hall","Cindy",31,1974,"female","Naples","Florida",5,36,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Cindy Hall"
+"185","Morales","Lydia",42,1963,"female","Lakewood","Washington",4,37,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Lydia Morales"
+"186","Judkins","Rafe",22,1983,"male","Providence","Rhode Island",3,38,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Rafe Judkins"
+"187","LaGrossa","Stephenie",25,1980,"female","Philadelphia","PennsylvaniaPalau",2,40,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Stephenie LaGrossa"
+"188","Boatwright","Danni",29,1976,"female","Tonganoxie","Kansas",1,40,11,"Survivor: Guatemala","Laguna Yaxhá, Yaxhá-Nakúm-Naranjo National Park, Petén, Guatemala","Danni Boatwright","Stephenie LaGrossa","Stephenie LaGrossa","Danni Boatwright"
+"189","","Hayw",44,1962,"unknown","","Wisconsin",16,3,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Hayw "
+"190","","Sevier",32,1974,"unknown","","Tennessee",15,6,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Sevier "
+"191","","Dal",24,1982,"unknown","","Texas",14,8,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Dal "
+"192","","Green",48,1958,"male","","South Carolina",13,11,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Green "
+"193","","L",32,1974,"unknown","","California",12,14,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","L "
+"194","","So",51,1955,"unknown","","Massachusetts",11,15,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","So "
+"195","","Tem",25,1981,"unknown","","Arizona",10,18,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Tem "
+"196","","Hi",24,1982,"unknown","","North Carolina",9,21,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Hi "
+"197","","Chic",27,1979,"unknown","","Illinois",8,24,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Chic "
+"198","","Si",57,1949,"unknown","","California",7,25,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Si "
+"201","","Walte",35,1971,"unknown","","South Carolina",4,36,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Walte "
+"202","","Sims",46,1960,"male","","Connecticut",3,38,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Sims "
+"203","","Pom",24,1982,"unknown","","Florida",2,40,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Pom "
+"204","","Sa",24,1982,"male","","California",1,40,12,"Survivor: Panama","Pearl Islands, Panama","Aras Baskauskas","Danielle DiLorenzo","Danielle DiLorenzo","Sa "
+"205","Bunch","Sekou",45,1961,"unknown","Los Angeles","California",20,3,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Sekou Bunch"
+"206","Garcia","Virg",36,1970,"unknown","New York City","New York",19,6,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Virg Garcia"
+"207","Mansilla","Cecilia",29,1977,"female","Oakland","California",18,8,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Cecilia Mansilla"
+"208","Calderon","Jo",30,1976,"female","Calderon","California",17,11,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Jo Calderon"
+"209","Favor","Stephannie",35,1971,"female","Columbia","South Carolina",16,14,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Stephannie Favor"
+"210","Bui","Anh-",42,1964,"unknown","Christiansburg","Virginia",15,15,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Anh- Bui"
+"211","Coria","Cristina",35,1971,"female","Los Angeles","California",14,15,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Cristina Coria"
+"212","Smith","Jes",27,1979,"male","Chico","California",13,18,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Jes Smith"
+"213","Virata","Brad",29,1977,"male","Los Angeles","California",12,21,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Brad Virata"
+"214","Borman","Rebecca",34,1972,"female","Laurelton","New York",11,24,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Rebecca Borman"
+"215","Guzon-Bae","Jenny",36,1970,"female","Lake Forest","Illinois",10,24,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Jenny Guzon-Bae"
+"216","Gonzalez","Nat",26,1980,"male","Los Angeles","California",9,27,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Nat Gonzalez"
+"217","Woodcock","Candice",23,1983,"female","Fayetteville","North Carolina",8,30,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Candice Woodcock"
+"218","Penner","Jonathan",44,1962,"male","Los Angeles","California",7,33,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Jonathan Penner"
+"219","Shallow","Parvati",23,1983,"unknown","Los Angeles","California",6,36,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Parvati Shallow"
+"220","Gentry","Adam",28,1978,"male","San Diego","California",5,37,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Adam Gentry"
+"221","Oakley","Sundra",31,1975,"female","Los Angeles","California",4,38,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Sundra Oakley"
+"222","Lee","Reb",28,1978,"unknown","Washington","D.C.",3,40,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Reb Lee"
+"223","Lusth","Os",24,1982,"unknown","Venice","California",2,40,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Os Lusth"
+"224","Kwon","Yul",31,1975,"male","San Mateo","California",1,40,13,"Survivor: Cook Islands","Aitutaki, Cook Islands","Yul Kwon","Ozzy Lusth","Becky Lee","Yul Kwon"
+"225","DeBen","Jessica",27,1980,"female","Los Angeles","California",19,3,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Jessica DeBen"
+"226","Durousseau","Erica",27,1980,"female","Lake Charles","Louisiana",18,6,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Erica Durousseau"
+"227","Kwan","Sylvia",52,1955,"female","Ross","California",17,8,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Sylvia Kwan"
+"228","Stritesky","Gary",55,1952,"male","Ramsey","Minnesota",16,10,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Gary Stritesky"
+"229","Gomez","Liliana",25,1982,"female","Oxnard","California",15,11,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Liliana Gomez"
+"230","Verreos","Rita",38,1969,"female","San Antonio","Texas",14,14,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Rita Verreos"
+"231","Robinson","Anthony",32,1975,"male","Compton","California",13,16,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Anthony Robinson"
+"232","Reid","Ja",28,1979,"male","Los Angeles","California",12,19,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Ja Reid"
+"233","Linares","Lis",36,1971,"female","Los Angeles","California",11,21,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Lis Linares"
+"234","Yi","Michelle",23,1984,"female","Cincinnati","Ohio",10,24,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Michelle Yi"
+"235","Rivera","Edgardo",28,1979,"male","Miami Beach","Florida",9,27,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Edgardo Rivera"
+"236","Lee","Mookie",25,1982,"unknown","Chicago","Illinois",8,30,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Mookie Lee"
+"237","Angarita","Alex",28,1979,"male","Los Angeles","California",7,33,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Alex Angarita"
+"238","Kimball","Stacy",27,1980,"female","Boulder","Colorado",6,36,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Stacy Kimball"
+"239","Bernis","Ken",34,1973,"male","Lafayette","Louisiana",5,37,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Ken Bernis"
+"240","Chan","Yau-Man",54,1953,"unknown","Martinez","California",4,38,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Yau-Man Chan"
+"241","Herd","And",25,1982,"unknown","Wilmington","North Carolina",2,40,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","And Herd"
+"242","Franklin","Cassandra",42,1965,"female","Los Angeles","California",2,40,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin"
+"243","Cole","Earl",35,1972,"male","Santa Monica","California",1,40,14,"Survivor: Fiji","Macuata, Vanua Levu, Fiji","Earl Cole","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Cassandra Franklin &
+Andria ""Dreamz"" Herd","Earl Cole"
+"244","Morris","St",46,1961,"unknown","Marion","Virginia",16,3,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","St Morris"
+"245","Massaro","Ashley",28,1979,"female","East Northport","New York",15,6,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Ashley Massaro"
+"246","Nease","Leslie",38,1969,"female","Tega Cay","South Carolina",14,9,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Leslie Nease"
+"247","Cruser","Dave",37,1970,"male","Simi Valley","California",13,12,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Dave Cruser"
+"248","Reisberger","Aaron",32,1975,"male","Venice","California",12,15,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Aaron Reisberger"
+"249","Lloyd","Sherea",26,1981,"female","Atlanta","Georgia",11,18,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Sherea Lloyd"
+"250","Dugan","Jaime",22,1985,"female","Columbia","South Carolina",10,21,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Jaime Dugan"
+"251","Bellande","Jean-Robert",36,1971,"unknown","Las Vegas","Nevada",9,24,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Jean-Robert Bellande"
+"252","Zernow","Mic",20,1987,"unknown","Zernow","Illinois",8,27,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Mic Zernow"
+"253","Clement","James",30,1977,"male","Clement","Louisiana",7,30,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","James Clement"
+"254","Huffman","Erik",26,1981,"male","Nashville","Tennessee",6,33,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Erik Huffman"
+"255","Law","Peih-Gee",29,1978,"unknown","Marina del Rey","California",5,36,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Peih-Gee Law"
+"256","Martin","Denise",40,1967,"female","Martin","Massachusetts",4,38,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Denise Martin"
+"257","Kimmel","Amanda",22,1985,"female","Kalispell","Montana",3,40,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Amanda Kimmel"
+"258","Yates","Courtney",26,1981,"female","New York City","New York",2,40,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Courtney Yates"
+"259","Herzog","Todd",22,1985,"male","Pleasant Grove","Utah",1,40,15,"Survivor: China","Zhelin, Jiujiang, Jiangxi, China","Todd Herzog","Courtney Yates","Amanda Kimmel","Todd Herzog"
+"260","Dalton","J",33,1975,"unknown","Danville","VirginiaPearl Islands",20,3,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","J Dalton"
+"261","Sartain","Mary",29,1979,"female","Emeryville","California",19,6,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Mary Sartain"
+"262","Chan","Yau-Man",55,1953,"unknown","Martinez","CaliforniaFiji",18,8,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Yau-Man Chan"
+"263","Bortone","Mic",34,1974,"unknown","Los Angeles","California",17,11,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Mic Bortone"
+"264","Anderson","Joel",32,1976,"male","Avondale","Arizona",16,14,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Joel Anderson"
+"265","Penner","Jonathan",45,1963,"male","Los Angeles","CaliforniaCook Islands",15,15,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Jonathan Penner"
+"266","Welch","Chet",48,1960,"male","Ford City","Pennsylvania",14,17,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Chet Welch"
+"267","Sleckman","Kath",45,1963,"unknown","Glen Ellyn","Illinois",13,19,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Kath Sleckman"
+"268","Hughes-Wolf","Tracy",43,1965,"female","Fredericksburg","Virginia",12,20,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Tracy Hughes-Wolf"
+"269","Cusack","Ami",34,1974,"female","Golden","ColoradoVanuatu",11,21,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Ami Cusack"
+"270","Orlins","Eliza",25,1983,"female","New York City","New YorkVanuatu",10,24,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Eliza Orlins"
+"271","Lusth","Os",26,1982,"unknown","Venice","CaliforniaCook Islands",9,27,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Os Lusth"
+"272","Siska","Jason",22,1986,"male","Fox River Grove","Illinois",8,30,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Jason Siska"
+"273","Clement","James",30,1978,"male","Clement","LouisianaChina",7,31,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","James Clement"
+"274","Jones","Alexis",24,1984,"female","Beverly Hills","California",6,33,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Alexis Jones"
+"275","Reichenbach","Erik",22,1986,"male","Pinckney","Michigan",5,36,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Erik Reichenbach"
+"276","Bolton","Natalie",32,1976,"female","Los Angeles","California",4,37,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Natalie Bolton"
+"277","Fields","Cirie",37,1971,"unknown","Norwalk","ConnecticutPanama",3,38,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Cirie Fields"
+"278","Kimmel","Amanda",23,1985,"female","Los Angeles","CaliforniaChina",2,40,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Amanda Kimmel"
+"279","Shallow","Parvati",25,1983,"unknown","Los Angeles","CaliforniaCook Islands",1,40,16,"Survivor: Micronesia","Koror, Palau","Parvati Shallow","Amanda Kimmel","Amanda Kimmel","Parvati Shallow"
+"280","Chase","Michelle",24,1984,"female","Los Angeles","California",18,3,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Michelle Chase"
+"281","Larson","Gillian",61,1947,"female","Temecula","California",17,6,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Gillian Larson"
+"282","Soto-Castillo","Paloma",23,1985,"female","Downey","California",16,9,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Paloma Soto-Castillo"
+"283","Berg","Jacquie",25,1983,"female","Santa Barbara","California",15,12,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Jacquie Berg"
+"284","Brown","Da",25,1983,"male","Portland","Oregon",14,15,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Da Brown"
+"285","Czarnecki","Kelly",22,1986,"female","Buffalo Grove","Illinois",13,18,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Kelly Czarnecki"
+"286","Gordon","Ace",27,1981,"male","Naples","Florida",12,21,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Ace Gordon"
+"287","Kay","Dan",32,1976,"male","Boston","Massachusetts",11,21,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Dan Kay"
+"288","Lehman","Marcus",28,1980,"male","Atlanta","Georgia",10,24,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Marcus Lehman"
+"289","Herschel","Charlie",29,1979,"male","New York City","New York",9,27,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Charlie Herschel"
+"290","Bailey","Randy",49,1959,"male","Eagle Rock","Missouri",8,30,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Randy Bailey"
+"291","Kaplan","Corinne",29,1979,"female","Los Angeles","California",7,33,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Corinne Kaplan"
+"292","Cox","Crystal",29,1979,"female","Durham","North Carolina",6,36,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Crystal Cox"
+"293","Hoang","Ken",22,1986,"male","Westminster","California",5,37,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Ken Hoang"
+"294","Whitmore","Matty",29,1979,"unknown","Pacific Palisades","California",4,38,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Matty Whitmore"
+"295","Kiper","Jes",29,1979,"male","Brooklyn","New York",3,40,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Jes Kiper"
+"296","Smith","Susie",47,1961,"female","Charles City","Iowa",2,40,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Susie Smith"
+"297","Crowley","Rob",57,1951,"male","South Portland","Maine[6]",1,40,17,"Survivor: Gabon","Wonga-Wongue Presidential Reserve, Estuaire, Gabon","Robert ""Bob"" Crowley","Susie Smith","Jessica ""Sugar"" Kiper","Rob Crowley"
+"298","Eastwood","Carolina",26,1983,"female","West Hollywood","California",16,3,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Carolina Eastwood"
+"299","Smith","Candace",31,1978,"female","Dayton","Ohio",15,6,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Candace Smith"
+"300","Sims","Jerry",49,1960,"male","Rock Hill","South Carolina",14,9,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Jerry Sims"
+"301","Burgin","Sandy",53,1956,"female","Louisville","Kentucky",13,12,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Sandy Burgin"
+"302","Duhm","Spencer",19,1990,"male","Lakeland","Florida",12,15,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Spencer Duhm"
+"303","Wheeler","Sydney",24,1985,"female","Raleigh","North Carolina",11,18,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Sydney Wheeler"
+"304","Dowdle","Joe",26,1983,"male","Austin","Texas",10,20,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Joe Dowdle"
+"305","Synnott","Brendan",30,1979,"male","Synnott","New York",9,24,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Brendan Synnott"
+"306","Apostol","Tyson",29,1980,"male","Lindon","Utah",8,27,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Tyson Apostol"
+"307","Reed","Sierra",23,1986,"female","Los Angeles","California",7,30,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Sierra Reed"
+"308","Beebe","De",46,1963,"female","Auburn","Alabama",6,33,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","De Beebe"
+"309","Wade","Benj",37,1972,"unknown","Bolivar","Missouri",5,36,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Benj Wade"
+"310","Johnson-George","Tam",37,1972,"female","Nashville","Tennessee",4,37,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Tam Johnson-George"
+"311","Lobdell","Erinn",26,1983,"female","Waukesha","Wisconsin",3,38,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Erinn Lobdell"
+"312","Fishbach","Stephen",29,1980,"male","New York City","New York",2,40,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Stephen Fishbach"
+"313","Thomas Jr.","Ja",24,1985,"unknown","Samson","Alabama",1,40,18,"Survivor: Tocantins","Jalapão, Tocantins, Brazil","James ""J.T."" Thomas Jr.","Stephen Fishbach","Stephen Fishbach","Ja Thomas Jr."
+"314","Calihan","Marisa",26,1983,"female","Cincinnati","Ohio",20,3,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Marisa Calihan"
+"315","Borassi","Mike",62,1947,"male","Marina del Rey","California",19,5,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Mike Borassi"
+"316","Bolan","Betsy",48,1961,"female","Campton","New Hampshire",18,6,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Betsy Bolan"
+"317","Browning","Ben",28,1981,"male","Los Angeles","California",17,8,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Ben Browning"
+"318","Giles","Yasmin",33,1976,"female","Los Angeles","California",16,11,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Yasmin Giles"
+"319","Trainer","Ashley",22,1987,"female","Maple Grove","Minnesota",15,14,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Ashley Trainer"
+"320","Swan","Russell",42,1967,"male","Glenside","Pennsylvania",14,15,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Russell Swan"
+"321","Kim","Eliz",33,1976,"unknown","New York City","New York",13,18,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Eliz Kim"
+"322","Cardona","Erik",28,1981,"male","Ontario","California",12,21,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Erik Cardona"
+"323","Sharbaugh","Kelly",25,1984,"female","Los Angeles","California",11,24,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Kelly Sharbaugh"
+"324","Morett","Laura",39,1970,"female","Salem","Oregon",10,27,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Laura Morett"
+"325","Fincher","John",25,1984,"male","Los Angeles","California",9,30,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","John Fincher"
+"326","Ball","Da",38,1971,"unknown","Los Angeles","California",8,31,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Da Ball"
+"327","Padilla","Monica",25,1984,"female","San Diego","California",7,33,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Monica Padilla"
+"328","Waters","Sha",45,1964,"unknown","Renton","Washington",6,36,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Sha Waters"
+"329","Robinson","Jaison",28,1981,"male","Chicago","Illinois",5,37,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Jaison Robinson"
+"330","Clouser","Brett",23,1986,"male","Los Angeles","California",4,38,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Brett Clouser"
+"331","Trimming","Mick",33,1976,"male","Los Angeles","California",3,40,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Mick Trimming"
+"332","Hantz","Russell",36,1973,"male","Dayton","Texas",2,40,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Russell Hantz"
+"333","White","Natalie",26,1983,"female","Van Buren","Arkansas",1,40,19,"Survivor: Samoa","Upolu, Samoa","Natalie White","Russell Hantz","Mick Trimming","Natalie White"
+"334","Kiper","Jes",30,1980,"unknown","Kiper","CaliforniaGabon",20,3,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Jes Kiper"
+"335","LaGrossa","Stephenie",29,1981,"female","Glenolden","PennsylvaniaPalau & Guatemala",19,6,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Stephenie LaGrossa"
+"336","Bailey","Randy",50,1960,"male","Bailey","TexasGabon",18,8,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Randy Bailey"
+"337","Fields","Cirie",39,1971,"unknown","Jersey City","New JerseyPanama & Micronesia",17,11,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Cirie Fields"
+"338","Westman","Tom",45,1965,"male","Sayville","New YorkPalau",16,14,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Tom Westman"
+"339","Apostol","Tyson",30,1980,"male","Apostol","UtahTocantins",15,15,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Tyson Apostol"
+"340","Clement","James",32,1978,"male","Lafayette","LouisianaChina & Micronesia",14,15,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","James Clement"
+"341","Mariano","Rob",33,1977,"male","Pensacola","FloridaMarquesas & All-Stars",13,18,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Rob Mariano"
+"342","Wade","Benj",38,1972,"unknown","Susanville","CaliforniaTocantins",12,21,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Benj Wade"
+"343","Yates","Courtney",28,1982,"female","New York City","New YorkChina",11,24,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Courtney Yates"
+"344","Thomas","Jr",25,1985,"male","Mobile","AlabamaTocantins",10,27,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Jr Thomas"
+"345","Kimmel","Amanda",25,1985,"female","Los Angeles","CaliforniaChina & Micronesia",9,30,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Amanda Kimmel"
+"346","Woodcock","Candice",26,1984,"female","Washington","D.C.Cook Islands",8,31,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Candice Woodcock"
+"347","DiLorenzo","Danielle",28,1982,"female","Los Angeles","CaliforniaPanama",7,33,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Danielle DiLorenzo"
+"348","Boneham","Rupert",45,1965,"male","Indianapolis","IndianaPearl Islands & All-Stars",6,36,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Rupert Boneham"
+"349","Donaldson","Colby",35,1975,"male","Christoval","TexasThe Australian Outback & All-Stars",5,37,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Colby Donaldson"
+"350","Manthey","Jerri",38,1972,"female","Los Angeles","CaliforniaThe Australian Outback & All-Stars",4,38,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Jerri Manthey"
+"351","Hantz","Russell",36,1974,"male","Dayton","TexasSamoa",3,40,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Russell Hantz"
+"352","Shallow","Parvati",26,1984,"unknown","Los Angeles","CaliforniaCook Islands & Micronesia",2,40,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Parvati Shallow"
+"353","Diaz-Twine","Sandra",35,1975,"female","Stamford","ConnecticutPearl Islands",1,40,20,"Survivor: Heroes vs. Villains","Upolu, Samoa","Sandra Diaz-Twine","Parvati Shallow","Russell Hantz","Sandra Diaz-Twine"
+"354","DeSmidt-Kohlhoff","We",48,1962,"unknown","Fromberg","Montana",20,3,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","We DeSmidt-Kohlhoff"
+"355","Elkins","Shannon",30,1980,"female","Elkins","Louisiana",19,6,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Shannon Elkins"
+"356","Johnson","Jimmy",67,1943,"male","Islamorada","Florida",18,8,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Jimmy Johnson"
+"357","Tarantino","Jimmy",48,1962,"male","Gloucester","Massachusetts",17,11,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Jimmy Tarantino"
+"358","Davis","Tyrone",42,1968,"male","Inglewood","California",16,14,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Tyrone Davis"
+"359","Bruno","Kelly",26,1984,"female","Durham","North Carolina",15,15,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Kelly Bruno"
+"360","Rojas","Yve",41,1969,"unknown","Kansas City","Missouri",14,15,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Yve Rojas"
+"361","Behm","Jill",43,1967,"female","Erie","Pennsylvania",13,18,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Jill Behm"
+"362","Wilson","Alina",23,1987,"female","Downey","California",12,22,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Alina Wilson"
+"363","Piombo","Marty",48,1962,"male","Mill Valley","California",11,24,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Marty Piombo"
+"364","Lowe","Brenda",27,1983,"female","Miami","Florida",10,27,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Brenda Lowe"
+"365","Mixon","NaOnka",27,1983,"unknown","Los Angeles","California",9,28,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","NaOnka Mixon"
+"366","Shinn","Kelly",20,1990,"female","Shinn","Arizona",8,28,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Kelly Shinn"
+"367","Henry","B",24,1986,"unknown","Los Angeles","California",7,32,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","B Henry"
+"368","Bright","Jane",56,1954,"female","Jackson Springs","North Carolina",6,36,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Jane Bright"
+"369","Lembo","Dan",63,1947,"male","Water Mill","New York",5,37,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Dan Lembo"
+"370","Hoffman","Holly",44,1966,"female","Eureka","South Dakota",4,38,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Holly Hoffman"
+"371","Lenahan","Mat",30,1980,"unknown","Lenahan","New York",3,40,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Mat Lenahan"
+"372","Rice","Chase",24,1986,"male","Fairview","North Carolina",2,40,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","Chase Rice"
+"373","Birza","J",21,1989,"unknown","Venice","California",1,40,21,"Survivor: Nicaragua","San Juan del Sur, Rivas, Nicaragua[10]","Jud ""Fabio"" Birza","Chase Rice","Matthew ""Sash"" Lenahan","J Birza"
+"374","Hogi","Francesca",36,1975,"female","Washington","D.C.",18,6,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Francesca Hogi"
+"375","Hantz","Russell",37,1974,"male","Dayton","TexasSamoa & Heroes vs. Villains",17,10,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Russell Hantz"
+"376","Kell","Kristina",46,1965,"female","Malibu","California",16,12,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Kristina Kell"
+"377","Klumpp","Krista",25,1986,"female","Columbia","South Carolina",15,14,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Krista Klumpp"
+"378","Valencia","Stephanie",26,1985,"female","Long Beach","California",14,17,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Stephanie Valencia"
+"379","White","Sarita",36,1975,"female","Santa Monica","California",13,19,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Sarita White"
+"380","Elrod","Matt",NA,NA,"unknown","Elrod","MattMatt ElrodReturned to game",20,20,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Matt Elrod"
+"381","Murphy","David",31,1980,"male","West Hollywood","California",12,25,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","David Murphy"
+"382","Wolfe","Julie",50,1961,"female","Wolfe","California",11,28,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Julie Wolfe"
+"383","Wright","Steve",51,1960,"male","Huntington Beach","California",10,31,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Steve Wright"
+"384","Kiser","Ralph",45,1966,"male","Lebanon","Virginia",9,33,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Ralph Kiser"
+"385","Mattos","Grant",29,1982,"male","West Hollywood","California",8,36,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Grant Mattos"
+"387","Chiesl","Mike",31,1980,"male","Del Mar","California",6,36,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Mike Chiesl"
+"388","Boehlke","Andrea",NA,NA,"unknown","Boehlke","AndreaAndrea BoehlkeReturned to game",19,19,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Andrea Boehlke"
+"390","Underwood","Ashley",25,1986,"female","Benton","Maine",4,38,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Ashley Underwood"
+"391","Tenerelli","Natalie",19,1992,"female","Acton","California",3,40,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Natalie Tenerelli"
+"392","Sheppard","Phillip",52,1959,"male","Santa Monica","California",2,40,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Phillip Sheppard"
+"393","Mariano","Rob",34,1977,"male","Pensacola","& Heroes vs. Villains",1,40,22,"Survivor: Redemption Island","San Juan del Sur, Rivas, Nicaragua[10]","Rob Mariano","Phillip Sheppard","Natalie Tenerelli","Rob Mariano"
+"394","Tadesse","Semhar",24,1987,"unknown","Los Angeles","California",18,6,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Semhar Tadesse"
+"395","Caruso","Ma",48,1963,"unknown","Forest Hills","New York",17,9,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Ma Caruso"
+"396","Powell","Stacey",44,1967,"female","Grand Prairie","Texas",16,12,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Stacey Powell"
+"397","Umemoto","Elyse",27,1984,"female","Las Vegas","Nevada",15,15,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Elyse Umemoto"
+"398","Wingle","Mikayla",22,1989,"female","Tampa","Florida",14,17,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Mikayla Wingle"
+"399","Shields-Markoski","Christine",39,1972,"female","Merrick","New York",13,19,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Christine Shields-Markoski"
+"400","Lusth","Os",NA,NA,"unknown","Lusth","Oscar ""Ozzy""Oscar ""Ozzy"" LusthReturned to game",20,20,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Os Lusth"
+"401","Rice","Jim",35,1976,"male","Denver","Colorado",12,25,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Jim Rice"
+"402","Tollefson","Keith",26,1985,"male","San Diego","California",11,25,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Keith Tollefson"
+"403","Meehan","Dawn",41,1970,"female","South Jordan","Utah",10,28,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Dawn Meehan"
+"404","Duncan","Whitney",27,1984,"female","Nashville","Tennessee",9,28,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Whitney Duncan"
+"405","Cochran","John",24,1987,"male","Washington","D.C.",8,31,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","John Cochran"
+"406","Ma","Edna",35,1976,"female","Los Angeles","California",7,33,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Edna Ma"
+"407","Hantz","Brandon",19,1992,"male","Katy","Texas",6,36,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Brandon Hantz"
+"409","Nelson","Rick",51,1960,"male","Aurora","Utah",5,37,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Rick Nelson"
+"411","Destrade","Albert",26,1985,"male","Plantation","Florida",3,40,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Albert Destrade"
+"412","Wade","Benj",39,1972,"unknown","Susanville","CaliforniaTocantins & Heroes vs Villains",2,40,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Benj Wade"
+"413","Clarke","Sophie",22,1989,"female","Willsboro","New York",1,40,23,"Survivor: South Pacific","San Juan del Sur, Rivas, Nicaragua[10]","Sophie Clarke","Benjamin ""Coach"" Wade","Albert Destrade","Sophie Clarke"
+"414","Moon","Kourtney",29,1983,"female","Austin","Texas",18,3,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Kourtney Moon"
+"415","Acosta","Nina",51,1961,"female","Clovis","California",17,5,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Nina Acosta"
+"416","Quinlan","Matt",33,1979,"male","San Francisco","California",16,8,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Matt Quinlan"
+"417","Posley","Bill",28,1984,"male","Venice","California",15,11,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Bill Posley"
+"418","Culpepper","Monica",41,1971,"female","Tampa","Florida",14,14,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Monica Culpepper"
+"419","Cumbie","Colton",21,1991,"male","Monroeville","Alabama",13,16,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Colton Cumbie"
+"420","Otsuji","Jonas",37,1975,"male","Lehi","Utah",12,20,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Jonas Otsuji"
+"421","Jefferson","Michael",30,1982,"male","Jefferson","Washington",11,22,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Michael Jefferson"
+"422","Byars","Jay",25,1987,"male","Gaffney","South Carolina",10,25,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Jay Byars"
+"423","Manson","Leif",27,1985,"male","San Diego","California",9,27,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Leif Manson"
+"424","Robertson","Tr",50,1962,"unknown","Robertson","Florida",8,30,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Tr Robertson"
+"425","Edorsson","Kat",22,1990,"unknown","Orlando","Florida",7,33,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Kat Edorsson"
+"426","Smith","Gr",64,1948,"unknown","Houston","Texas",6,36,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Gr Smith"
+"427","Rosa","Alicia",25,1987,"female","Chicago","Illinois",5,37,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Alicia Rosa"
+"428","Cha","Christina",29,1983,"female","West Hollywood","California",4,38,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Christina Cha"
+"429","Meissner","Chelsea",26,1986,"female","Charleston","South Carolina",3,40,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Chelsea Meissner"
+"430","Thompson","Sabrina",33,1979,"female","Brooklyn","New York",2,40,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Sabrina Thompson"
+"431","Spradlin","Kim",29,1983,"female","San Antonio","Texas",1,40,24,"Survivor: One World","San Juan del Sur, Rivas, Nicaragua[10]","Kim Spradlin","Sabrina Thompson","Chelsea Meissner","Kim Spradlin"
+"432","Knight","Zane",28,1984,"male","Danville","Virginia",18,3,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Zane Knight"
+"433","Morris","Rox",28,1984,"unknown","Brooklyn","New York",17,6,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Rox Morris"
+"434","Layton","Ang",20,1992,"unknown","Layton","Utah",16,8,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Ang Layton"
+"435","Swan","Russell",45,1967,"male","Glenside","PennsylvaniaSamoa",15,10,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Russell Swan"
+"436","Lambert","Dana",32,1980,"female","Winston-Salem","North Carolina",14,12,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Dana Lambert"
+"437","Dawson","Sarah",28,1984,"female","Silver Spring","Maryland",13,13,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Sarah Dawson"
+"438","Hanson","Katie",22,1990,"female","Newark","Delaware",12,16,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Katie Hanson"
+"439","Saint-Amour","Rob",27,1985,"male","New York City","New York",11,19,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Rob Saint-Amour"
+"440","Kent","Jeff",44,1968,"male","Austin","Texas",10,22,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Jeff Kent"
+"441","Silvester","Artis",53,1959,"male","Terrytown","Louisiana",9,25,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Artis Silvester"
+"442","Yurkowski","Pe",24,1988,"unknown","Holmdel","New Jersey",8,27,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Pe Yurkowski"
+"443","Penner","Jonathan",50,1962,"male","Penner","CaliforniaCook Islands & Micronesia",7,30,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Jonathan Penner"
+"444","Williams","Carter",23,1989,"male","Shawnee","Kansas",6,33,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Carter Williams"
+"445","Gomes","Abi-Maria",32,1980,"unknown","Los Angeles","California",5,36,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Abi-Maria Gomes"
+"446","Freberg","Malcolm",25,1987,"male","Hermosa Beach","California",4,38,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Malcolm Freberg"
+"447","Whelchel","Lisa",49,1963,"female","Dallas","Texas",2,40,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Lisa Whelchel"
+"448","Skupin","Michael",50,1962,"male","Skupin","MichiganThe Australian Outback",2,40,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Michael Skupin"
+"449","Stapley","Denise",41,1971,"female","Cedar Rapids","Iowa",1,40,25,"Survivor: Philippines","Caramoan, Camarines Sur, Philippines","Denise Stapley","Lisa Whelchel &Michael Skupin","Lisa Whelchel &Michael Skupin","Denise Stapley"
+"450","Hogi","Francesca",38,1975,"female","Brooklyn","New YorkRedemption Island",20,3,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Francesca Hogi"
+"451","Pohevitz","Alex",25,1988,"male","Oceanside","New York",19,5,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Alex Pohevitz"
+"452","Driskill","Hope",23,1990,"female","Jefferson City","Missouri",18,7,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Hope Driskill"
+"453","Thomas","Shamar",27,1986,"male","Brooklyn","New York",17,10,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Shamar Thomas"
+"454","Alexander","Laura",23,1990,"female","Washington","D.C.",16,10,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Laura Alexander"
+"455","Hantz","Brandon",20,1993,"male","Hantz","TexasSouth Pacific",15,13,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Brandon Hantz"
+"456","Bischoff","Matt",38,1975,"male","Cincinnati","Ohio",14,16,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Matt Bischoff"
+"457","Landauer","Julia",21,1992,"female","Stanford","California",13,19,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Julia Landauer"
+"458","Kaplan","Corinne",33,1980,"female","Los Angeles","CaliforniaGabon",12,22,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Corinne Kaplan"
+"459","Snow","Michael",44,1969,"male","New York City","New York",11,25,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Michael Snow"
+"460","Sheppard","Phillip",54,1959,"male","Santa Monica","CaliforniaRedemption Island",10,28,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Phillip Sheppard"
+"461","Freberg","Malcolm",25,1988,"male","Hermosa Beach","CaliforniaPhilippines",9,30,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Malcolm Freberg"
+"462","Toepfer","Reynold",30,1983,"male","Toepfer","California",8,31,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Reynold Toepfer"
+"463","Boehlke","Andrea",23,1990,"female","New York City","New YorkRedemption Island",7,33,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Andrea Boehlke"
+"464","Lowe","Brenda",29,1984,"female","Miami","FloridaNicaragua",6,36,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Brenda Lowe"
+"465","Reichenbach","Erik",27,1986,"male","Santa Clarita","CaliforniaMicronesia",5,36,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Erik Reichenbach"
+"466","Fox","Edw",23,1990,"unknown","East Brunswick","New Jersey",4,38,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Edw Fox"
+"467","Biethman","Sherri",41,1972,"female","Boise","Idaho",2,40,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Sherri Biethman"
+"468","Meehan","Dawn",42,1971,"female","South Jordan","UtahSouth Pacific",2,40,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","Dawn Meehan"
+"469","Cochran","John",25,1988,"male","Washington","D.C.South Pacific",1,40,26,"Survivor: Caramoan","Caramoan, Camarines Sur, Philippines","John Cochran","Dawn Meehan &
+Sherri Biethman","Dawn Meehan &
+Sherri Biethman","John Cochran"
+"470","Boneham","Laura",NA,NA,"unknown","Boneham","LauraLaura BonehamReturned to game",23,23,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Laura Boneham"
+"471","Boneham","Rupert",49,1964,"male","Indianapolis","All-Stars & Heroes vs. Villains",20,4,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Rupert Boneham"
+"472","Cumbie","Colton",22,1991,"male","Collinsville","AlabamaOne World",19,7,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Colton Cumbie"
+"473","Foulger","Rachel",33,1980,"female","Provo","Utah
+Tyson's girlfriend",18,7,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Rachel Foulger"
+"474","Peterson","Marissa",21,1992,"female","Chapel Hill","North Carolina
+Gervase's niece",17,9,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Marissa Peterson"
+"475","Cody","Candice",30,1983,"female","Cody","D.C.Cook Islands & Heroes vs. Villains",16,11,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Candice Cody"
+"476","Culpepper","Brad",44,1969,"male","Tampa","Florida
+Monica's husband",15,14,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Brad Culpepper"
+"477","Edorsson","Kat",23,1990,"unknown","Orlando","FloridaOne World",14,17,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Kat Edorsson"
+"478","Cody","John",30,1983,"male","Cody","D.C.
+Candice's husband",13,19,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","John Cody"
+"480","Morett","Laura",NA,NA,"unknown","Morett","LauraLaura MorettReturned to game",22,22,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Laura Morett"
+"481","Baskauskas","Aras",31,1982,"male","Santa Monica","CaliforniaPanama",11,25,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Aras Baskauskas"
+"482","Baskauskas","Vytas",33,1980,"unknown","Santa Monica","California
+Aras' brother",10,27,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Vytas Baskauskas"
+"483","Bankston","Caleb",26,1987,"male","Collinsville","Alabama
+Colton's fiancé",9,30,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Caleb Bankston"
+"484","Collins","Katie",25,1988,"female","New York City","New York
+Tina's daughter",8,33,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Katie Collins"
+"485","Moss","Hayden",27,1986,"male","Springtown","Texas
+Kat's boyfriend",7,36,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Hayden Moss"
+"487","Wesson","Tina",NA,NA,"unknown","Wesson","TinaTina WessonReturned to game",21,21,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Tina Wesson"
+"488","Eastin","Ciera",24,1989,"female","Salem","Oregon
+Laura M.'s daughter",5,37,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Ciera Eastin"
+"490","Peterson","Gervase",43,1970,"unknown","Philadelphia","PennsylvaniaBorneo",3,40,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Gervase Peterson"
+"491","Culpepper","Monica",42,1971,"female","Tampa","FloridaOne World",2,40,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Monica Culpepper"
+"492","Apostol","Tyson",34,1979,"male","Provo","UtahTocantins & Heroes vs. Villains",1,40,27,"Survivor: Blood vs. Water","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tyson Apostol","Monica Culpepper","Gervase Peterson","Tyson Apostol"
+"493","Samson","David",45,1969,"male","Plantation","Florida",18,3,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","David Samson"
+"494","Adelstein","Garrett",27,1987,"male","Santa Monica","California",17,6,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Garrett Adelstein"
+"495","Johnston","Brice",27,1987,"male","Philadelphia","Pennsylvania",16,8,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Brice Johnston"
+"496","Taylor","J'Tia",31,1983,"unknown","Chicago","Illinois",15,11,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","J'Tia Taylor"
+"497","Robinson","Cliff",46,1968,"male","Newark","New Jersey",14,14,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Cliff Robinson"
+"498","Ogle","Lindsey",29,1985,"female","Kokomo","Indiana",13,14,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Lindsey Ogle"
+"499","Maxwell","Alexis",21,1993,"female","Addison","Illinois",12,16,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Alexis Maxwell"
+"500","Lacina","Sarah",29,1985,"female","Cedar Rapids","Iowa",11,19,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Sarah Lacina"
+"501","McLeod","Morgan",21,1993,"female","San Jose","California",10,22,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Morgan McLeod"
+"502","McKanas","LJ",34,1980,"unknown","Boston","Massachusetts",9,25,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","LJ McKanas"
+"503","Wood","Jeremiah",34,1980,"male","Dobson","North Carolina",8,28,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Jeremiah Wood"
+"504","Bland","Jefra",22,1992,"unknown","Campbellsville","Kentucky",7,30,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Jefra Bland"
+"505","Fox","Lat",37,1977,"unknown","St. Louis","Missouri",6,33,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Lat Fox"
+"506","Hegarty","Trish",48,1966,"female","Needham","Massachusetts",5,36,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Trish Hegarty"
+"507","Bledsoe","Spencer",21,1993,"male","Chicago","Illinois",4,37,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Spencer Bledsoe"
+"508","McQuillen","Kass",41,1973,"unknown","Tehachapi","California",3,38,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Kass McQuillen"
+"509","Hwang","Yu",29,1985,"male","Newport Beach","California",2,40,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Yu Hwang"
+"510","Vlachos","Tony",39,1975,"male","Jersey City","New Jersey",1,40,28,"Survivor: Cagayan","Palaui Island, Santa Ana, Cagayan, Philippines[11]","Tony Vlachos","Yung ""Woo"" Hwang","Yung ""Woo"" Hwang","Tony Vlachos"
+"511","Anderson","Nadiya",28,1986,"female","Edgewater","New Jersey
+Natalie's twin sister",18,3,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Nadiya Anderson"
+"512","Collins","Val",35,1979,"male","Foxborough","Massachusetts
+Jeremy's wife",17,6,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Val Collins"
+"513","Rocker","John",39,1975,"male","Atlanta","Georgia
+Julie's boyfriend",16,8,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","John Rocker"
+"514","Christy","Drew",25,1989,"male","Winter Park","Florida
+Alec's brother",15,10,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Drew Christy"
+"515","Wentworth","Kelley",28,1986,"female","Seattle","Washington
+Dale's daughter",14,13,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Kelley Wentworth"
+"516","Wentworth","Dale",55,1959,"male","Ephrata","Washington
+Kelley's father",13,15,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Dale Wentworth"
+"517","McGee","Julie",34,1980,"female","Atlanta","Georgia
+John's girlfriend",12,18,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Julie McGee"
+"518","Canfield","Josh",32,1982,"male","New York City","New York
+Reed's boyfriend",11,21,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Josh Canfield"
+"519","Collins","Jeremy",36,1978,"male","Foxborough","Massachusetts
+Val's husband",10,24,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Jeremy Collins"
+"520","Nale","Wes",23,1991,"male","Shreveport","Louisiana
+Keith's son",9,26,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Wes Nale"
+"521","Kelly","Reed",31,1983,"male","New York City","New York
+Josh's boyfriend",8,29,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Reed Kelly"
+"522","Christy","Alec",22,1992,"male","Winter Park","Florida
+Drew's brother",7,32,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Alec Christy"
+"523","Misch","Jon",26,1988,"male","Waterford","Michigan
+Jaclyn's boyfriend",6,35,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Jon Misch"
+"524","Wilson","Baylor",20,1994,"male","Wilson","Tennessee
+Missy's daughter",5,37,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Baylor Wilson"
+"525","Nale","Keith",53,1961,"male","Shreveport","Louisiana
+Wes's father",4,38,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Keith Nale"
+"526","Payne","Missy",47,1967,"female","Dallas","Texas
+Baylor's mother",3,40,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Missy Payne"
+"527","Schultz","Jaclyn",25,1989,"female","Las Vegas","Nevada
+Jon's girlfriend",2,40,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Jaclyn Schultz"
+"528","Anderson","Natalie",28,1986,"female","Edgewater","New Jersey
+Nadiya's twin sister",1,40,29,"Survivor: San Juan del Sur","San Juan del Sur, Rivas, Nicaragua","Natalie Anderson","Jaclyn Schultz","Missy Payne","Natalie Anderson"
+"529","Kim","So",31,1984,"unknown","Long Beach","California",18,3,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","So Kim"
+"530","Sly","Vince",32,1983,"male","Santa Monica","California",17,6,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Vince Sly"
+"531","Poersch","Nina",51,1964,"female","Palmdale","California",16,8,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Nina Poersch"
+"532","Cascaddan","Lindsey",24,1991,"female","College Park","Florida",15,11,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Lindsey Cascaddan"
+"533","Dawson","Max",37,1978,"male","Topanga","California",14,14,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Max Dawson"
+"534","Souberbielle","Joaquin",27,1988,"male","Valley Stream","New York",13,16,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Joaquin Souberbielle"
+"535","Remington","Kelly",44,1971,"female","Grand Island","New York",12,19,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Kelly Remington"
+"536","Ford","Hali",25,1990,"female","San Francisco","California",11,22,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Hali Ford"
+"537","Anglim","Joe",25,1990,"male","Scottsdale","Arizona",10,24,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Joe Anglim"
+"538","Brown","Jenn",22,1993,"unknown","Long Beach","California",9,27,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Jenn Brown"
+"539","Oskooi","Shirin",31,1984,"female","San Francisco","California",8,29,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Shirin Oskooi"
+"540","Fredrickson","Tyler",33,1982,"male","Los Angeles","California",7,32,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Tyler Fredrickson"
+"541","Foley","Dan",47,1968,"male","Gorham","Maine",6,35,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Dan Foley"
+"542","Thomas","Sie",27,1988,"unknown","Roy","Utah",5,37,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Sie Thomas"
+"543","Lavoie Jr.","Rodney",24,1991,"male","Boston","Massachusetts",4,38,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Rodney Lavoie Jr."
+"544","Sims II","Will",41,1974,"male","Sherman Oaks","California",2,40,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Will Sims II"
+"545","Rivera","Carolyn",52,1963,"female","Tampa","Florida",2,40,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Carolyn Rivera"
+"546","Holloway","Mike",38,1977,"male","North Richland Hills","Texas",1,40,30,"Survivor: Worlds Apart","San Juan del Sur, Rivas, Nicaragua","Mike Holloway","Carolyn Rivera &
+Will Sims II","Carolyn Rivera &
+Will Sims II","Mike Holloway"
+"547","Baskauskas","Vytas",35,1980,"unknown","Santa Monica","CaliforniaBlood vs. Water",20,3,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Vytas Baskauskas"
+"548","Oskooi","Shirin",32,1983,"female","San Francisco","CaliforniaWorlds Apart",19,6,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Shirin Oskooi"
+"549","Law","Peih-Gee",37,1978,"unknown","San Francisco","CaliforniaChina",18,9,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Peih-Gee Law"
+"550","Varner","Jeff",49,1966,"male","Greensboro","North CarolinaThe Australian Outback",17,11,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Jeff Varner"
+"551","Padilla","Monica",30,1985,"female","Padilla","New YorkSamoa",16,13,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Monica Padilla"
+"552","Deitz","Terry",55,1960,"male","Simsbury","ConnecticutPanama",15,13,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Terry Deitz"
+"553","Hwang","Woo",31,1984,"unknown","Newport Beach","CaliforniaCagayan",14,16,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Woo Hwang"
+"554","McQuillen","Kass",42,1973,"unknown","Tehachapi","CaliforniaCagayan",13,19,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Kass McQuillen"
+"555","Savage","Andrew",51,1964,"male","San Jose","CaliforniaPearl Islands",12,21,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Andrew Savage"
+"556","Wiglesworth","Kelly",37,1978,"female","Greensboro","North CarolinaBorneo",11,24,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Kelly Wiglesworth"
+"557","Eastin","Ciera",26,1989,"female","Salem","OregonBlood vs. Water",10,26,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Ciera Eastin"
+"558","Fishbach","Stephen",36,1979,"male","New York City","New YorkTocantins",9,29,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Stephen Fishbach"
+"559","Anglim","Joe",26,1989,"male","Scottsdale","ArizonaWorlds Apart",8,32,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Joe Anglim"
+"560","Gomes","Abi-Maria",35,1980,"unknown","Los Angeles","CaliforniaPhilippines",7,35,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Abi-Maria Gomes"
+"561","Kappenberg","Kimmi",42,1973,"female","The Woodlands","TexasThe Australian Outback",6,36,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Kimmi Kappenberg"
+"562","Nale","Keith",54,1961,"male","Keithville","LouisianaSan Juan del Sur",5,37,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Keith Nale"
+"563","Wentworth","Kelley",29,1986,"female","Seattle","WashingtonSan Juan del Sur",4,38,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Kelley Wentworth"
+"564","Bledsoe","Spencer",23,1992,"male","Chicago","IllinoisCagayan",2,40,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe"
+"565","Fox","Tasha",39,1976,"female","St. Louis","MissouriCagayan",2,40,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Tasha Fox"
+"566","Collins","Jeremy",37,1978,"male","Foxborough","MassachusettsSan Juan del Sur",1,40,31,"Survivor: Cambodia","Koh Rong, Cambodia[16]","Jeremy Collins","Spencer Bledsoe &
+Tasha Fox","Spencer Bledsoe &
+Tasha Fox","Jeremy Collins"
+"567","Hamilton","Darnell",27,1989,"male","Chicago","Illinois",18,3,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Darnell Hamilton"
+"568","Lanzetti","Jennifer",38,1978,"female","Salt Lake City","Utah",17,6,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Jennifer Lanzetti"
+"569","Markham","Elis",27,1989,"unknown","New York City","New York",16,8,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Elis Markham"
+"570","Reynolds","Caleb",28,1988,"male","Hopkinsville","Kentucky",15,9,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Caleb Reynolds"
+"571","Holden","Alecia",24,1992,"female","Dallas","Texas",14,11,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Alecia Holden"
+"572","Khait","Anna",26,1990,"female","Brooklyn","New York",13,13,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Anna Khait"
+"573","Baggenstos","Peter",34,1982,"male","Minneapolis","Minnesota",12,16,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Peter Baggenstos"
+"574","Gottlieb","Neal",38,1978,"male","Sausalito","California",11,19,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Neal Gottlieb"
+"575","Maiorano","Nick",30,1986,"male","Maiorano","California",10,22,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Nick Maiorano"
+"576","Wanner","Debbie",49,1967,"female","Reading","Pennsylvania",9,24,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Debbie Wanner"
+"577","Pollard","Scot",40,1976,"male","Pollard","Indiana",8,27,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Scot Pollard"
+"578","Sokolowski","Julia",19,1997,"female","Boston","Massachusetts",7,29,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Julia Sokolowski"
+"579","Jason","Kyle",31,1985,"male","Detroit","Michigan",6,32,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Kyle Jason"
+"580","Del Campo","Jos",72,1944,"unknown","Vero Beach","Florida",5,34,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Jos Del Campo"
+"581","Gillon","Cydney",22,1994,"female","Douglasville","Georgia",4,37,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Cydney Gillon"
+"582","Trang","Tai",51,1965,"unknown","San Francisco","California",3,40,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Tai Trang"
+"583","Bracco","Aubry",29,1987,"female","Cambridge","Massachusetts",2,40,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Aubry Bracco"
+"584","Fitzgerald","Michele",24,1992,"female","Freehold","New Jersey",1,40,32,"Survivor: Kaôh Rōng","Koh Rong, Cambodia[16]","Michele Fitzgerald","Aubry Bracco","Tai Trang","Michele Fitzgerald"
+"585","Ako","Rachel",37,1979,"female","Los Angeles","California",20,4,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Rachel Ako"
+"586","Takahashi","Mari",31,1985,"female","Los Angeles","California",19,7,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Mari Takahashi"
+"587","Wachter","Paul",52,1964,"male","Sugarloaf Key","Florida",18,10,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Paul Wachter"
+"588","Huang","Lucy",42,1974,"female","Diamond Bar","California",17,12,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Lucy Huang"
+"589","Taylor","Cia",39,1977,"unknown","Granada Hills","California",16,15,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Cia Taylor"
+"590","Figueroa","Jes",23,1993,"male","Nashville","Tennessee",15,18,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Jes Figueroa"
+"591","Bradshaw","Michaela",25,1991,"female","Fort Worth","Texas",14,20,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Michaela Bradshaw"
+"592","Schubert","Michelle",28,1988,"female","Yakima","Washington",13,23,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Michelle Schubert"
+"593","Stocker","Tay",24,1992,"male","Post Falls","Idaho",12,25,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Tay Stocker"
+"594","Hammons","Chris",38,1978,"male","Moore","Oklahoma",11,28,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Chris Hammons"
+"595","Lewis","Jessica",37,1979,"female","Voorheesville","New York",10,30,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Jessica Lewis"
+"596","Smith","Zeke",28,1988,"male","Brooklyn","New York",9,33,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Zeke Smith"
+"597","Wahl","Will",18,1998,"male","Long Valley","New Jersey",8,34,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Will Wahl"
+"598","Burquest","Sunday",45,1971,"female","Otsego","Minnesota",7,35,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Sunday Burquest"
+"599","Starrett","Jus",27,1989,"unknown","Fort Lauderdale","Florida",6,36,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Jus Starrett"
+"600","LaBelle","Bret",42,1974,"male","Dedham","Massachusetts",5,37,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Bret LaBelle"
+"601","Wright","David",42,1974,"male","Sherman Oaks","California",4,38,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","David Wright"
+"602","Shapiro","Hannah",24,1992,"female","West Hollywood","California",2,40,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro"
+"603","McNickle","Ken",33,1983,"male","Denver","Colorado",2,40,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Ken McNickle"
+"604","Klein","Adam",25,1991,"male","San Francisco","California",1,40,33,"Survivor: Millennials vs. Gen X","Mamanuca Islands, Fiji","Adam Klein","Hannah Shapiro &
+Ken McNickle","Hannah Shapiro &
+Ken McNickle","Adam Klein"
+"605","Eastin","Ciera",27,1990,"female","Salem","OregonBlood vs. Water & Cambodia",20,3,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Ciera Eastin"
+"606","Vlachos","Tony",42,1975,"male","Jersey City","New JerseyCagayan",19,6,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Tony Vlachos"
+"607","Reynolds","Caleb",28,1989,"male","Hopkinsville","KentuckyKaôh Rōng",18,9,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Caleb Reynolds"
+"608","Freberg","Malcolm",29,1988,"male","Hermosa Beach","CaliforniaPhilippines & Caramoan",17,11,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Malcolm Freberg"
+"609","Thomas","Jr",31,1986,"male","Mobile","AlabamaTocantins & Heroes vs. Villains",16,13,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Jr Thomas"
+"610","Diaz-Twine","Sandra",41,1976,"female","Fayetteville","North CarolinaPearl Islands & Heroes vs. Villains",15,16,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Sandra Diaz-Twine"
+"611","Varner","Jeff",50,1967,"male","Varner","North CarolinaThe Australian Outback & Cambodia",14,18,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Jeff Varner"
+"612","Ford","Hali",26,1991,"female","San Francisco","CaliforniaWorlds Apart",13,21,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Hali Ford"
+"613","Lusth","Os",34,1983,"unknown","Venice","Micronesia & South Pacific",12,24,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Os Lusth"
+"614","Wanner","Debbie",51,1966,"female","Reading","PennsylvaniaKaôh Rōng",11,26,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Debbie Wanner"
+"615","Smith","Zeke",28,1989,"male","Brooklyn","New YorkMillennials vs. Gen X",10,29,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Zeke Smith"
+"616","Thomas","Sie",29,1988,"unknown","Roy","UtahWorlds Apart",9,32,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Sie Thomas"
+"617","Boehlke","Andrea",27,1990,"female","New York City","New YorkRedemption Island & Caramoan",8,33,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Andrea Boehlke"
+"618","Bradshaw","Michaela",25,1992,"female","Fort Worth","TexasMillennials vs. Gen X",7,35,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Michaela Bradshaw"
+"619","Fields","Cirie",45,1972,"unknown","Norwalk","Micronesia & Heroes vs. Villains",6,36,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Cirie Fields"
+"620","Bracco ","Aubry",30,1987,"female","Bracco ","MassachusettsKaôh Rōng",5,37,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Aubry Bracco "
+"621","Trang","Tai",52,1965,"unknown","San Francisco","CaliforniaKaôh Rōng",4,38,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Tai Trang"
+"622","Robertson","Tr",54,1963,"unknown","Miami","FloridaOne World",NA,40,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Tr Robertson"
+"623","Culpepper","Brad",47,1970,"male","Tampa","FloridaBlood vs. Water",NA,40,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Brad Culpepper"
+"624","Lacina","Sarah",32,1985,"female","Marion","IowaCagayan",NA,40,34,"Survivor: Game Changers","Mamanuca Islands, Fiji","Sarah Lacina","Brad Culpepper","Troy ""Troyzan"" Robertson","Sarah Lacina"
+"625","Radke","Katrina",46,1971,"female","Excelsior","Minnesota",18,3,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Katrina Radke"
+"626","Nguyen","Simone",25,1992,"female","New York City","New York",17,6,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Simone Nguyen"
+"627","Bolton","Patrick",24,1993,"male","Auburn","Alabama",16,8,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Patrick Bolton"
+"628","Ball","Alan",32,1985,"male","Houston","Texas",15,11,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Alan Ball"
+"629","Luskin","Roark",27,1990,"unknown","Santa Monica","California",14,14,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Roark Luskin"
+"630","Elliott","Alexa",24,1993,"female","Los Angeles","California",13,16,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Alexa Elliott"
+"631","Johnston","Jessica",29,1988,"female","Louisville","Kentucky",12,19,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Jessica Johnston"
+"632","Williams","Des",27,1990,"unknown","Newport News","Virginia",11,21,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Des Williams"
+"633","Driebergen","Ben",34,1983,"male","Boise","Idaho",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Ben Driebergen"
+"634","Hilsabeck","Jo",28,1989,"female","Los Angeles","California",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Jo Hilsabeck"
+"635","Hofbeck","Chrissy",46,1971,"female","Lebanon Township","New Jersey",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Chrissy Hofbeck"
+"636","Medders","Cole",24,1993,"male","Little Rock","Arkansas",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Cole Medders"
+"637","Mena","Joe",34,1983,"male","Tolland","Connecticut",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Joe Mena"
+"638","Nolan","Ashley",26,1991,"female","Satellite Beach","Florida",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Ashley Nolan"
+"639","Pinto","Devon",23,1994,"male","Solana Beach","California",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Devon Pinto"
+"640","Rimmer","Lauren",35,1982,"female","Beaufort","North Carolina",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Lauren Rimmer"
+"641","Ulrich","Ryan",23,1994,"male","North Arlington","New Jersey",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Ryan Ulrich"
+"642","Zahalsky","Mike",43,1974,"male","Parkland","Florida",NA,40,35,"Survivor: Heroes vs. Healers vs. Hustlers","Mamanuca Islands, Fiji","TBA","TBA","TBA","Mike Zahalsky"
