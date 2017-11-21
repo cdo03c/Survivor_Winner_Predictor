@@ -28,7 +28,7 @@ allseasons = cbind(allseasons, premierYear = ifelse(substring(premierDate, nchar
 #Creates the function getLocation which takes the names of a city and state as
 #strings and returns a data frame containing the location table from the 
 #wikipedia page for that city.
-getLocation <- function(city, state){
+getLocation <- function(city = 'Madison', state = 'Wisconsin'){
     city = gsub(" ", "_", city)
     state = gsub(" ", "_", state)
     loc = read_html(paste("https://en.wikipedia.org/wiki/", city,",_", state, sep = ''))
@@ -37,6 +37,7 @@ getLocation <- function(city, state){
       html_nodes("table") %>%
       .[[1]] %>%
       html_table(fill=T)
+    #print(location)
 }
 
 #Creates a function called getGEO which takes in a string from a Wikipedia
@@ -93,13 +94,18 @@ parseSeason <- function(seasons, season.contest, i){
   popDens = vector()
   
   for(i in 1:length(city)){
+    tryCatch(getLocation(city[i],state[i]), error = "no location")
     location <- getLocation(city[i],state[i])
     geo <- rbind(geo,getGEO(location[grepl('Coord', location[,2]),1]))
     stats = location[grepl('km2)', location[,2]),]
+    totalPop = rbind(totalPop,as.numeric(gsub(",", "", location[grepl('[:digits{0-9}:],[:digits{0-9}:]', location[,2]),2][1])))
+    print(totalPop[i])
     totalArea <- rbind(totalArea,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Total',stats[,1]),2],'sq'))[1])))
-    popDens <- rbind(popDens,strtoi(gsub(",", "", unlist(strsplit(stats[grepl('Dens',stats[,1]),2],'/'))[1])))
+    popDens <- rbind(popDens,totalPop[i]/totalArea[i])
+    print(city[i])
+    print(state[i])
     print(popDens)
-    totalPop <- rbind(totalPop,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Land',stats[,1]),2],'sq'))[1])) * popDens[i,])
+    #totalPop <- rbind(totalPop,as.numeric(gsub(",", "", unlist(strsplit(stats[grepl('Land',stats[,1]),2],'sq'))[1])) * popDens[i,])
   }
   #
   
