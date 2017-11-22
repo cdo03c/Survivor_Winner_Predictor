@@ -61,7 +61,7 @@ getCastLinks <- function(i){
 getCastBios = function(links){
   library(RCurl)
   # download html
-  htmls <- getURL(castLinks, followlocation = TRUE)
+  htmls <- getURL(links, followlocation = TRUE)
   
   bios = vector()
   for(html in htmls){
@@ -92,12 +92,12 @@ getCastBios = function(links){
 parseSeason <- function(seasons, season.contest, i){
   #Creates a string vector of all the contestants' last names for a particular season
   last.name <- gsub(",(.+)", "", season.contest[,1])
-  #print(last.name)
   
   #Creates a string vector of all the contestants' first names for a particular season
   first.name <- gsub("^(.+?), | (.+)","", season.contest[,1])
   first.name <- substring(first.name, 1, nchar(first.name)/2)
-  #print(first.name)
+  
+  
   
   #Creates a integer vector of all the contestants' age
   age <- as.integer(substr(gsub("([^0-9])", "", season.contest[,1]),1,2))
@@ -158,10 +158,13 @@ parseSeason <- function(seasons, season.contest, i){
   num.days = ifelse(is.na(num.days), 40, num.days)
   
   #Creates a character vector of the links to the contestants CBS bio pages
-  castLinks = getCastLinks(i)
+  #castLinks = getCastLinks(i)
+  links = paste('http://survivor.wikia.com/wiki/',
+                paste(first.name, last.name, sep = '_'), sep = '')
+  print(links)
   
   #Creates a character vector of cast bios
-  bios = getCastBios(castLinks)
+  bios = getCastBios(links)
   print(bios[1])
   
   #Creates a data frame with all the extracted contestant information from each season
