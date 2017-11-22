@@ -58,6 +58,35 @@ getCastLinks <- function(i){
   return(paste('http://www.cbs.com',castLinks, sep = ''))
 }
 
+getCastBios = function(links){
+  library(RCurl)
+  # download html
+  htmls <- getURL(castLinks, followlocation = TRUE)
+  
+  bios = vector()
+  for(html in htmls){
+    # parse html
+    doc = htmlParse(html, asText=TRUE)
+    
+    #Extract the class for the cast description
+    class_xp <- "//div[@class='description']//text()"
+    bio = xpathSApply( doc,class_xp,xmlValue)
+    
+    # Replace all \n, \r, \t by spaces
+    bio = gsub('\\n', ' ', bio)
+    bio = gsub('\\r', ' ', bio)
+    bio = gsub('\\t', ' ', bio)
+    
+    # Join all the elements of the character vector into a single
+    # character string, separated by spaces
+    bio = gsub("^\\s+|\\s+$", "", bio)
+    bio = paste(bio, collapse = ' ')
+    
+    bios = c(bios, bio)
+  }
+  return(bios)
+}
+
 #Creates a function to parse all the contestant information from each season's 
 #wikipedia page
 parseSeason <- function(seasons, season.contest, i){
@@ -131,25 +160,9 @@ parseSeason <- function(seasons, season.contest, i){
   #Creates a character vector of the links to the contestants CBS bio pages
   castLinks = getCastLinks(i)
   
-  library(RCurl)
-  # download html
-  html <- getURL(castLinks[1], followlocation = TRUE)
-  
-  # parse html
-  doc = htmlParse(html, asText=TRUE)
-  
-  # Extract all the paragraphs (HTML tag is p, starting at
-  # the root of the document). Unlist flattens the list to
-  # create a character vector.
-  doc.text = unlist(xpathApply(doc, '//p', xmlValue))
-  
-  # Replace all \n by spaces
-  doc.text = gsub('\\n', ' ', doc.text)
-  
-  # Join all the elements of the character vector into a single
-  # character string, separated by spaces
-  doc.text = paste(doc.text, collapse = ' ')
-  print(castLinks)
+  #Creates a character vector of cast bios
+  bios = getCastBios(castLinks)
+  print(bios[1])
   
   #Creates a data frame with all the extracted contestant information from each season
   data.frame(last.name, first.name, age, birth.year, sex, city, state, place,
@@ -205,5 +218,4 @@ write.csv(allcontestants, file = "contestants.csv")
 ###WORK LEFT TO DO###
 ###1. Error handle if there is no wikipedia for a location
 ###2. Calculate number of times played
-###3. Scrape bios from webpage
-###4. TFIDF Vectorize Bio Text
+###3. TFIDF Vectorize Bio Text
