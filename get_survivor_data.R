@@ -48,6 +48,16 @@ getGEO <- function(coordStr){
   return(as.numeric(unlist(strsplit(dd,';'))))
 }
 
+getCastLinks <- function(i){
+  url = paste("http://www.cbs.com/shows/survivor/cast/?season=",i, sep = '')
+  library('XML')
+  doc <- htmlParse(url)
+  links <- data.frame(xpathSApply(doc, "//a/@href"), stringsAsFactors = F)
+  free(doc)
+  castLinks = links[grepl('(cast\\/\\d)',links[,1]),1]
+  return(paste('http://www.cbs.com',castLinks, sep = ''))
+}
+
 #Creates a function to parse all the contestant information from each season's 
 #wikipedia page
 parseSeason <- function(seasons, season.contest, i){
@@ -78,7 +88,6 @@ parseSeason <- function(seasons, season.contest, i){
       sex <- c(sex, gender(first.name[g], years = birth.year[g], countries = "United States")$gender)
     }
   }
-  #print(sex)
   
   #Creates a string vector of all the contestants' home city
   city = gsub("(.+[1-9]), |, (.+)", "", season.contest[,1])
@@ -118,7 +127,29 @@ parseSeason <- function(seasons, season.contest, i){
   #Creates an integer vector with the number of days a contestant played the game
   num.days <- as.integer(gsub("^\\s+", "", substring(season.contest$Finish, nchar(season.contest$Finish)-1, nchar(season.contest$Finish))))
   num.days = ifelse(is.na(num.days), 40, num.days)
-  #print(num.days)
+  
+  #Creates a character vector of the links to the contestants CBS bio pages
+  castLinks = getCastLinks(i)
+  
+  library(RCurl)
+  # download html
+  html <- getURL(castLinks[1], followlocation = TRUE)
+  
+  # parse html
+  doc = htmlParse(html, asText=TRUE)
+  
+  # Extract all the paragraphs (HTML tag is p, starting at
+  # the root of the document). Unlist flattens the list to
+  # create a character vector.
+  doc.text = unlist(xpathApply(doc, '//p', xmlValue))
+  
+  # Replace all \n by spaces
+  doc.text = gsub('\\n', ' ', doc.text)
+  
+  # Join all the elements of the character vector into a single
+  # character string, separated by spaces
+  doc.text = paste(doc.text, collapse = ' ')
+  print(castLinks)
   
   #Creates a data frame with all the extracted contestant information from each season
   data.frame(last.name, first.name, age, birth.year, sex, city, state, place,
@@ -174,5 +205,5 @@ write.csv(allcontestants, file = "contestants.csv")
 ###WORK LEFT TO DO###
 ###1. Error handle if there is no wikipedia for a location
 ###2. Calculate number of times played
-###3. Scrape bios from webpage 
+###3. Scrape bios from webpage
 ###4. TFIDF Vectorize Bio Text
